@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,rzhao99,Zhao,Ran
 employee,Nand-Xie,Xie,Yixuan
